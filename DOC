@@ -1,2 +1,2 @@
-SNN gas sensing DOC
-binds net and pytorch
+SNN-based gas type classification and concentration estimation 
+Development Environment: bindsnet and pytorch
