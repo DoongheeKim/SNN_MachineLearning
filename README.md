@@ -1,4 +1,4 @@
-## SpikingNeuralNet STDP based GasClassification
+## SpikingNeuralNet & STDP-based GasClassification
 
 - This is a place for comments and code for  
 for our paper *A Spiking Neural Network for Time-Efficient Gas Concentration Level
