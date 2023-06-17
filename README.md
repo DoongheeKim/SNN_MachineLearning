@@ -18,7 +18,7 @@ based training
 generate a 2-dimensional data (ie, image) from
 a time series sample(ie, a sequence of reponse measurements).
 So, we can utlize a large number of machine learning code and techniqeus
-that has already be carried out for our research.
+that has already be carried out for 2-d images.
 
 ***************************************************************
 ## Requirements
