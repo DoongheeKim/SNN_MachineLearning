@@ -13,7 +13,7 @@ sensor, where the sensor was fabricated in our lab.
 ***************************************************************
 ## Main Features
 - Spike-Timing Dependent Plasticity (STDP) 
-based 
+based training 
 - Gas responses are time-series data. We
 generate a 2-dimensional data (ie, image) from
 a time series sample(ie, a sequence of reponse measurements).
